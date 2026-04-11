@@ -3,7 +3,8 @@
 <h3 align="center">A Passionate Engineer From SMVDU</h3>
 <img align="right" alt="coding" width="400"src="https://camo.githubusercontent.com/88adc7c88c9d3dba7479020846ed35d13410e3707c7f149e1c6140cc6beaef9a/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavkumar-tech&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavkumar-tech" /> </p>
+<p align="left"> <img src="<img width="735" height="397" alt="image" src="https://github.com/user-attachments/assets/47a9a4da-10af-460b-a51a-8332ed4ec805" />
+" /> </p>
 
 - 📫 How to reach me **vaibhavkumar62078@gmail.com**
 
