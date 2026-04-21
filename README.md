@@ -64,7 +64,7 @@ My goal is to grow as a software developer and create impactful real-world solut
 
 <img height="195em" width="48%" src="https://github-readme-stats.vercel.app/api?username=vaibhavkumar-tech&show_icons=true&theme=tokyonight" />
 
-<img height="188em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavkumar-tech&layout=compact&theme=tokyonight" />
+<img height="185em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavkumar-tech&layout=compact&theme=tokyonight" />
 
 </div>
 
