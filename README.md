@@ -1,55 +1,84 @@
-![logo](https://i.pinimg.com/736x/07/6c/a4/076ca4ab40fb5f03c83021bdea86443d.jpg)
+![Banner](https://i.pinimg.com/736x/81/0d/56/810d5634bb73f3e2151331092612bef3.jpg)
 
-<h1 align="center">Hi 👋, I'm Vaibhav Kumar</h1>
-<h3 align="center">A Passionate Engineer From SMVDU</h3>
+# 👨‍💻 VAIBHAV KUMAR  
+### 🚀 Crafting digital experiences, one line of code at a time
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/88adc7c88c9d3dba7479020846ed35d13410e3707c7f149e1c6140cc6beaef9a/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
+---
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=vaibhavkumar-tech&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavkumar-tech" />
-</p>
+## 👋 About Me
 
-- 📫 How to reach me **vaibhavkumar62078@gmail.com**
+Hello there! I'm **Vaibhav Kumar**, a passionate developer based in **India**.  
+I enjoy building responsive web applications, solving coding problems, and learning modern technologies.  
+My goal is to grow as a software developer and create impactful real-world solutions. 🚀
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/vaibhav-kumar-729209311/" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-</a>
+- 💻 Passionate about Web Development  
+- 📚 Consistent Learner & Problem Solver  
+- ⚡ Focused on Clean UI and Efficient Code  
+- 🌱 Exploring New Technologies Daily  
 
-<a href="https://www.leetcode.com/vaibhav12309864" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
-</a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
+## 🎯 Current Focus
 
-<p align="left">
-<a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/></a>
+- 🔭 Working on: **Frontend Development Projects**
+- 🌱 Learning: **DSA & Modern Web Development**
+- 👯 Looking to collaborate on: **Entry-Level Open Source Projects & Initiatives**
+- 💬 Ask me about: **Web Development Basics, Problem Solving**
+- ⚡ Fun fact: **I enjoy turning ideas into real projects!**
 
-<a href="https://azure.microsoft.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/></a>
+---
 
-<a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/></a>
+## 🛠️ My Technology Ecosystem
 
-<a href="https://cloud.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40"/></a>
+### 💻 Programming Languages
 
-<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-<a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a>
+---
 
-<a href="https://www.mathworks.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40"/></a>
+### 🚀 Frameworks & Libraries
 
-<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
-</p>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express)
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavkumar-tech&show_icons=true&locale=en&layout=compact" />
-</p>
+---
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhavkumar-tech&show_icons=true&locale=en" />
-</p>
+### ☁️ Cloud
 
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavkumar-tech" />
-</p>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+---
+
+### 🗄️ Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=vaibhavkumar-tech&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavkumar-tech&layout=compact&theme=tokyonight" />
+
+</div>
+
+---
+
+## 🌐 Let's Connect & Collaborate
+
+I'm always open to learning, collaborations, and exciting opportunities. 🚀
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-kumar-729209311/)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaibhavkumar62078@gmail.com)
+
+</div>
