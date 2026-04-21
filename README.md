@@ -1,7 +1,7 @@
 ![Banner](https://i.pinimg.com/736x/81/0d/56/810d5634bb73f3e2151331092612bef3.jpg)
 
 # 👨‍💻 VAIBHAV KUMAR  
-### 🚀 Crafting digital experiences, one line of code at a time
+### 🚀 Building innovative solutions through code and creativity
 
 ---
 
@@ -24,7 +24,6 @@ My goal is to grow as a software developer and create impactful real-world solut
 - 🌱 Learning: **DSA & Modern Web Development**
 - 👯 Looking to collaborate on: **Entry-Level Open Source Projects & Initiatives**
 - 💬 Ask me about: **Web Development Basics, Problem Solving**
-- ⚡ Fun fact: **I enjoy turning ideas into real projects!**
 
 ---
 
