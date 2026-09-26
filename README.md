@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="https://i.pinimg.com/736x/81/0d/56/810d5634bb73f3e2151331092612bef3.jpg"
+    src="https://i.pinimg.com/736x/7b/28/e0/7b28e06408ac1e88d09b6d997b2fc09e.jpg"
     width="85%"
     alt="Vaibhav Kumar Banner"
   />
